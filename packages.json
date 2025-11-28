@@ -1,6 +1,10 @@
 [
     {
-        "package": "TractorTsbox",
-        "url": "https://github.com/TractorTom/TractorTsbox"
+        "package": "date4ts",
+        "url": "https://github.com/TractorTom/date4ts"
+    },
+    {
+        "package": "rotulador",
+        "url": "https://github.com/TractorTom/rotulador"
     }
 ]
